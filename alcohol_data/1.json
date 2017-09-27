@@ -1,0 +1,104 @@
+[
+  {
+    "id":"wine",
+    "name":"Wine",
+    "volume":14,
+    "categories":[],
+    "isCategory": true,
+    "preferredUnits":[
+      {
+        "name": "unit",
+        "value": 100.0,
+        "uom": "ML"
+      },
+      {
+        "name": "unit",
+        "value": 200.0,
+        "uom": "ML"
+      },
+      {
+        "name": "unit",
+        "value": 500.0,
+        "uom": "ML"
+      }
+    ]
+  },
+  {
+    "id":"spirits",
+    "name":"Spirits",
+    "volume":40,
+    "categories":[],
+    "isCategory": true,
+    "preferredUnits":[
+      {
+        "name": "unit",
+        "value": 20.0,
+        "uom": "ML"
+      },
+      {
+        "name": "unit",
+        "value": 25.0,
+        "uom": "ML"
+      },
+      {
+        "name": "unit",
+        "value": 30.0,
+        "uom": "ML"
+      },
+      {
+        "name": "unit",
+        "value": 40.0,
+        "uom": "ML"
+      },
+      {
+        "name": "unit",
+        "value": 50.0,
+        "uom": "ML"
+      },
+      {
+        "name": "unit",
+        "value": 60.0,
+        "uom": "ML"
+      },
+      {
+        "name": "unit",
+        "value": 70.0,
+        "uom": "ML"
+      },
+      {
+        "name": "unit",
+        "value": 100.0,
+        "uom": "ML"
+      }
+    ]
+  },
+  {
+    "id":"beer-cider",
+    "name":"Beer & Cider",
+    "volume":5,
+    "categories":[],
+    "isCategory": true,
+    "preferredUnits":[
+      {
+        "name": "unit",
+        "value": 330.0,
+        "uom": "ML"
+      },
+      {
+        "name": "unit",
+        "value": 500.0,
+        "uom": "ML"
+      },
+      {
+        "name": "unit",
+        "value": 568.3,
+        "uom": "ML"
+      },
+      {
+        "name": "unit",
+        "value": 1000.0,
+        "uom": "ML"
+      }
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "id":"red-wine",
+    "name":"Red Wine",
+    "categories":["wine"],
+    "isCategory": true
+  },
+  {
+    "id":"white-wine",
+    "name":"White Wine",
+    "categories":["wine"],
+    "isCategory": true
+  },
+  {
+    "id":"rose-wine",
+    "name":"Rose Wine",
+    "categories":["wine"],
+    "isCategory": true
+  },
+  {
+    "id":"champagne",
+    "name":"Champagne",
+    "categories":["wine"],
+    "isCategory": true
+  },
+  {
+    "id":"sparkling-wine",
+    "name":"Sparkling Wine",
+    "categories":["wine"],
+    "isCategory": true
+  },
+  {
+    "id":"dessert-wine",
+    "name":"Dessert Wine",
+    "categories":["wine"],
+    "isCategory": true
+  },
+  {
+    "id":"icewine",
+    "name":"Icewine",
+    "categories":["wine"],
+    "isCategory": true
+  },
+  {
+    "id":"fortified-wine",
+    "name":"Fortified Wine",
+    "categories":["wine"],
+    "isCategory": true
+  },
+  {
+    "id":"specialty-wine",
+    "name":"Specialty Wine",
+    "categories":["wine"],
+    "isCategory": true
+  },
+  {
+    "id":"brandy",
+    "name":"Brandy",
+    "categories":["spirits"],
+    "isCategory": true
+  },
+  {
+    "id":"cognac-armagnac",
+    "name":"Cognac/Armagnac",
+    "categories":["spirits"],
+    "isCategory": true
+  },
+  {
+    "id":"whisky-whiskey",
+    "name":"Whisky/Whiskey",
+    "categories":["spirits"],
+    "isCategory": true
+  },
+  {
+    "id":"vodka",
+    "name":"Vodka",
+    "categories":["spirits"],
+    "isCategory": true
+  },
+  {
+    "id":"rum",
+    "name":"Rum",
+    "categories":["spirits"],
+    "isCategory": true
+  },
+  {
+    "id":"gin",
+    "name":"Gin",
+    "categories":["spirits"],
+    "isCategory": true
+  },
+  {
+    "id":"tequila",
+    "name":"Tequila",
+    "categories":["spirits"],
+    "isCategory": true
+  },
+  {
+    "id":"liqueur-liquor",
+    "name":"Liqueur/Liquor",
+    "categories":["spirits"],
+    "isCategory": true
+  },
+  {
+    "id":"shochu-soju",
+    "name":"Shochu/Soju",
+    "categories":["spirits"],
+    "isCategory": true
+  },
+  {
+    "id":"eau-de-vie",
+    "name":"Eau-de-Vie",
+    "categories":["spirits"],
+    "isCategory": true
+  },
+  {
+    "id":"lager",
+    "name":"Lager",
+    "categories":["beer-cider"],
+    "isCategory": true
+  },
+  {
+    "id":"ale",
+    "name":"Ale",
+    "categories":["beer-cider"],
+    "isCategory": true
+  },
+  {
+    "id":"hybrid",
+    "name":"Hybrid",
+    "categories":["beer-cider"],
+    "isCategory": true
+  },
+  {
+    "id":"specialty",
+    "name":"Specialty",
+    "categories":["beer-cider"],
+    "isCategory": true
+  },
+  {
+    "id":"radler-shandy",
+    "name":"Radler/Shandy",
+    "categories":["beer-cider"],
+    "isCategory": true
+  },
+  {
+    "id":"cider",
+    "name":"Cider",
+    "categories":["beer-cider"],
+    "isCategory": true
+  }
+]
