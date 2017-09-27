@@ -15,11 +15,13 @@ func main() {
 	f2, _ := ioutil.ReadFile("./alcohol_data/2.json")
 	f3, _ := ioutil.ReadFile("./alcohol_data/3.json")
 	f4, _ := ioutil.ReadFile("./alcohol_data/4.json")
+	//f5, _ := ioutil.ReadFile("./alcohol_data/lcbo/lcbo_white_wine.json")
 
 	lvl1 = createJSONWithBaseCategories(f1)
 	lvl1 = createJSONWithBaseCategories(f2)
 	lvl1 = createJSONWithBaseCategories(f3)
 	lvl1 = createJSONWithBaseCategories(f4)
+	//lvl1 = createJSONWithBaseCategories(f5)
 
 	f, _ := os.Create("output.json")
 	defer f.Close()
